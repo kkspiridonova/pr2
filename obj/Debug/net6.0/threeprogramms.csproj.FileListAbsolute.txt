@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\threeprogramms\bin\Debug\net6.0\threeprogramms.exe
+C:\Users\User\source\repos\threeprogramms\bin\Debug\net6.0\threeprogramms.deps.json
+C:\Users\User\source\repos\threeprogramms\bin\Debug\net6.0\threeprogramms.runtimeconfig.json
+C:\Users\User\source\repos\threeprogramms\bin\Debug\net6.0\threeprogramms.dll
+C:\Users\User\source\repos\threeprogramms\bin\Debug\net6.0\threeprogramms.pdb
+C:\Users\User\source\repos\threeprogramms\obj\Debug\net6.0\threeprogramms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\threeprogramms\obj\Debug\net6.0\threeprogramms.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\threeprogramms\obj\Debug\net6.0\threeprogramms.AssemblyInfo.cs
+C:\Users\User\source\repos\threeprogramms\obj\Debug\net6.0\threeprogramms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\threeprogramms\obj\Debug\net6.0\threeprogramms.dll
+C:\Users\User\source\repos\threeprogramms\obj\Debug\net6.0\refint\threeprogramms.dll
+C:\Users\User\source\repos\threeprogramms\obj\Debug\net6.0\threeprogramms.pdb
+C:\Users\User\source\repos\threeprogramms\obj\Debug\net6.0\threeprogramms.genruntimeconfig.cache
+C:\Users\User\source\repos\threeprogramms\obj\Debug\net6.0\ref\threeprogramms.dll
