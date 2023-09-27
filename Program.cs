@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel;
 using System.Net.Mail;
+using System.Runtime.Serialization.Formatters;
 
 namespace threeprogramms
 {
@@ -55,21 +56,16 @@ namespace threeprogramms
         }
         static void Table()
         {
-            int i = 1, j = 1;
-            int[,] array = new int[10, 10];
-            while (i < 10 && j < 10)
+            int[,] table = new int[10, 10];
+            for(int ryad = 1; ryad < 10; ryad++)
             {
-                array[i, j] = i * j;
-                Console.Write(" " + array[i, j] + " ");
-                j++;
-                if (j == 10)
+                for (int stolbec = 1; stolbec < 10; stolbec++)
                 {
-                    i++;
-                    j = 1;
-                    Console.WriteLine();
+                    table[ryad, stolbec] = ryad * stolbec;
+                    Console.Write(table[ryad, stolbec] + "\t");
                 }
+                Console.WriteLine();
             }
-            Console.ReadKey(true);
         }
         static void Delitely()
         {
